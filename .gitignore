@@ -1,0 +1,9 @@
+.htaccess
+config.php
+vendor
+data/otp/**
+!data/otp/index.html
+data/registered/**
+!data/registered/index.html
+data/waiting/**
+!data/waiting/index.html
